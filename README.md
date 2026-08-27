@@ -1,2 +1,2 @@
 # radikaterpillar.github.io
-Interdisciplinary knowledge and thoughts for collective organizing
+Transdisciplinary thoughts for collective organizing
