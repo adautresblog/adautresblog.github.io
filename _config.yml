@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Just a curious caterpillar
+title: à d'autres !
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Transdisciplinary thoughts for collective organizing
+  Pensées en vrac sur l'altérité, l'entraide et le travail social
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://radikaterpillar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://adautresblog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  radikaterpillar
+github_username:  adautresblog
 
 # Build settings
 theme: minima
